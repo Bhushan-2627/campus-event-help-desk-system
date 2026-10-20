@@ -11,7 +11,7 @@ using namespace std;
 // DSA Mini Project: Campus Event Registration & Help Desk System
 // Data structures: Array, Tuple, Queue, Stack, Singly Linked List
 // Sorting algorithms: Bubble Sort, Insertion Sort, Selection Sort
-
+//This is sample commit
 const int EVENT_COUNT = 5;
 using Event = tuple<int, string, string, int>; // ID, event name, category, fee (Rs.)
 
